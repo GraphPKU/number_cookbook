@@ -123,6 +123,10 @@ And 17 number understanding and processing tasks:
   </tr>
 </table>
 
+✔: 41 tasks included in our test  
+✘: Not included, too complex  
+o: Not directly included but can be easily adapted from an included task  
+-: Not applicable.  
 The details about the tasks can be found in our [paper](https://arxiv.org/abs/2411.03766).
 
 ### Leaderboard
