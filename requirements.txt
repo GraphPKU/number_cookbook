@@ -1,0 +1,9 @@
+accelerate==0.34.2
+bitsandbytes==0.44.0
+datasets==3.0.1
+multiprocess==0.70.15
+peft==0.13.0
+tensorboard==2.18.0
+transformers==4.45.1
+trl==0.11.1
+tqdm==4.66.5
