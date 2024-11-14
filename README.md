@@ -1,8 +1,5 @@
 # Number Cookbook: Number Understanding of Language Models and How to Improve It
 
-<<<<<<< HEAD
-We will release our codes and dataset here soon.
-=======
 ## Introduction
 Welcom to the official code repository for the paper [Number Cookbook: Number Understanding of Language Models and How to Improve It](https://arxiv.org/abs/2411.03766). In this work, we introduce a novel benchmark that focuses on the **Number Understanding and Processing Ability** (**NUPA**) of language models. The benchmark encompasses four distinct number *representations* and spans 17 diverse *tasks* that test number understanding and processing capabilities. 
 
