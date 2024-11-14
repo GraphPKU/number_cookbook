@@ -76,7 +76,7 @@ And 17 number understanding and processing tasks:
     <td>✔</td>
     <td>✔</td>
     <td>✔</td>
-    <td>✔</td>
+    <td>○</td>
     <td>—</td>
     <td>✔</td>
     <td>✔</td>
@@ -86,7 +86,7 @@ And 17 number understanding and processing tasks:
     <td>✔</td>
     <td>✔</td>
     <td>✔</td>
-    <td>—</td>
+    <td>✔</td>
     <td>—</td>
     <td>—</td>
     <td>✔</td>
@@ -96,8 +96,8 @@ And 17 number understanding and processing tasks:
     <td>—</td>
     <td>—</td>
     <td>—</td>
-    <td>—</td>
-    <td>—</td>
+    <td>○</td>
+    <td>✔</td>
     <td>○</td>
     <td>○</td>
   </tr>
@@ -116,9 +116,9 @@ And 17 number understanding and processing tasks:
     <td>—</td>
     <td>—</td>
     <td>—</td>
-    <td>—</td>
-    <td>—</td>
     <td>○</td>
+    <td>✔</td>
+    <td>—</td>
     <td>○</td>
   </tr>
 </table>
