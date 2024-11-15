@@ -162,7 +162,7 @@ pip install -r requirements.txt
 ## Create the benchmark data
 If you wish to generate the benchmark data from scratch, follow the instructions below.
 
-**Note**: This step is *optional*. If your goal is solely to test or fine-tune models on the benchmark, you can skip this process and directly download the pre-generated benchmark data from the provided [links](xxxxxxxx).
+**Note**: This step is *optional*. If your goal is solely to test or fine-tune models on the benchmark, you can skip this process and directly download the pre-generated benchmark data from the provided [links](https://huggingface.co/datasets/HaotongYang/NUPA_text/tree/main).
 
 ### Create your own number dataset
 To create your own number dataset, use the script `src/datagen/data_generate.py`. For example, the following command generates a dataset of `Integer` pairs:
