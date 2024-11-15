@@ -137,11 +137,11 @@ We welcome contributions from the community! If you have suggestions for additio
 
 ### Download the benchmark data
 We offer two versions of our benchmark: 
-  1. [number dataset](xxxxxxxx):  
+  1. [number dataset](https://huggingface.co/datasets/HaotongYang/NUPA_number/tree/main):  
     - A binary file containing the number pairs to conduct the number understanding and processing tasks. Numbers are represented using our custom number class.  
     - Ideal for training models from scratch without textual context or for experimenting with custom text formulations.
   
-  2. [text dataset](xxxxxxxx):  
+  2. [text dataset](https://huggingface.co/datasets/HaotongYang/NUPA_text/tree/main):  
     - This version converts numbers and tasks into text Q&A pairs.  
     - Suitable for testing or fine-tuning models on text data.
 
