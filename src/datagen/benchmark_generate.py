@@ -66,8 +66,10 @@ def decon(task):
     valid_and_test = set(decon_valid if decon_valid is not None else []) | set(decon_test if decon_test is not None else [])
     if train is not None and (valid_and_test):
         decon_train = [txt for txt in train if txt not in valid_and_test]
-    else:
+    elif train is not None:
         decon_train = list(set(train))
+    else:
+        decon_train = None
     return (task_name, digit, decon_train, decon_valid, decon_test)
     
 def main() -> None:
