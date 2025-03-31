@@ -133,7 +133,7 @@ The details about the tasks can be found in our [paper](https://arxiv.org/abs/24
 
 We have evaluated several popular LLMs on our benchmark and the results are summarzied in the [leaderboard](https://huggingface.co/spaces/KangShijia/NUPA-Leaderboard). This leaderboard will be regularly updated as new evaluations are conducted.
 
-We also provide an performance visualization in the [performance page](https://huggingface.co/spaces/kangshijia/NUPA-Performance) where you can select the models, tasks, ranges, and metrics of interest for intuitive comparison and analysis in the form of bar charts.
+[HIGHLY RECOMMENDED] We also provide an performance visualization in the [performance page](https://huggingface.co/spaces/kangshijia/NUPA-Performance) where you can select the models, tasks, ranges, and metrics of interest for intuitive comparison and analysis in the form of bar charts.
 
 We welcome contributions from the community! If you have suggestions for additional model evaluations or wish to share your own results, feel free to reach out by proposing an issue or emailing us at <haotongyang@pku.edu.cn>.
 
